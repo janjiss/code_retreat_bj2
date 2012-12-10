@@ -21,7 +21,7 @@ dalītājs un 3 spēlētāji
 
 * dalīšana pa riņķi pa 1 kārtij
 * sākotnēji izdala 2 kārtis
-* - katrs spēlētājs pa kārtai var pieprasīt vēl pa kārtij
+* katrs spēlētājs pa kārtai var pieprasīt vēl pa kārtij
 * Vispirms spēlētāji izspēlē, beigās galds izdala sev.
 
 [Software design pattern](http://en.wikipedia.org/wiki/Software_design_pattern)
